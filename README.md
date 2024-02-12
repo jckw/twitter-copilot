@@ -1,3 +1,7 @@
+# twitter copilot
+
+> An AI-powered assistant that lives in the reply box, helping you write replies to Tweets.
+
 This is a [Plasmo extension](https://docs.plasmo.com/) project bootstrapped with [`plasmo init`](https://www.npmjs.com/package/plasmo).
 
 ## Getting Started
