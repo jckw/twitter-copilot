@@ -62,8 +62,8 @@ const ReplyFooter = () => {
 
 export default ReplyFooter
 
-// export const getInlineAnchor: PlasmoGetInlineAnchor = () =>
-//   document.querySelector("[data-testid='toolBar']")
+export const getInlineAnchor: PlasmoGetInlineAnchor = () =>
+  document.querySelector("[data-testid='toolBar']")
 
 export const config: PlasmoCSConfig = {
   matches: ["<all_urls>"],
